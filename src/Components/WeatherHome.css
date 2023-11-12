@@ -1,0 +1,39 @@
+
+.display_picture
+{
+    width:100%;
+    height:600px;
+    border:px solid black;
+    background-size: cover;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8by7uDweybCHEMGWHyfVgKghfaku5X_gYyw&usqp=CAU");
+}
+.inputbar
+{
+    width:500px;
+    padding:10px;
+    height:20px;
+    border-radius: 5px;
+    font-size: 15px;
+    margin-top: 40px;
+    border:none;
+    border-bottom:2px solid blue;
+
+}
+.display-output
+{
+    margin-top:30px;
+}
+.bold
+{
+    color:white;
+    font-size: 20px;
+}
+h2{
+    color:darkblue;
+    
+}
+.pink
+{
+    color:deeppink;
+    font-size: 20px;
+}
